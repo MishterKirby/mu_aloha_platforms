@@ -196,6 +196,12 @@ sudo docker run -v $(pwd):/build/ -it mu:v1
 |--------------------------------------|------------------------|-----------------|----------------------------------------------------|
 | Qualcomm Technologies, Inc. QRD 7125 | qcom-qrd7125           | ✅              | [sunflower2333](https://github.com/sunflower2333)  |
 
+#### Samsung Devices
+
+| Device                               | Target name            | DSDT Support    | Contributors                                       |
+|--------------------------------------|------------------------|-----------------|----------------------------------------------------|
+| Samsung Galaxy Tab S6 Lite (2022)    | samsung-gta4xlveu      | ❌              | [MishterKirby](https://github.com/MishterKirby)    |
+
 #### Xiaomi Devices
 
 | Device                               | Target name            | DSDT Support    | Contributors                                       |

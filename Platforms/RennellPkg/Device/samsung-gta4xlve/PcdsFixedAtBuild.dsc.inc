@@ -1,0 +1,21 @@
+[PcdsFixedAtBuild.common]
+gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1200
+gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2000
+
+# Smbios Info
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemBrand|"Samsung"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemModel|"Galaxy Tab S6 Lite"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailModel|"gta4xlveu"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailSku|"SM-P613"
+
+gAndromedaPkgTokenSpaceGuid.PcdABLProduct|"Samsung Galaxy Tab S6 Lite (2022)"
+
+[PcdsDynamicDefault.common]
+gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|1200
+gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|2000
+gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoHorizontalResolution|1200
+gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoVerticalResolution|2000
+gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutRow|120 # 94.73
+gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutColumn|90 # 168.75
+gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|120 # 94.73
+gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|90 # 168.75
